@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
+title: epwalsh.github.io
+description: The landing page of me.
 main_links:
   github: https://github.com/epwalsh
   linkedin: https://www.linkedin.com/in/epwalsh/

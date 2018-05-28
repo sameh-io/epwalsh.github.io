@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
-title: epwalsh.github.io
-description: The landing page of me.
+main_url: https://epwalsh.github.io
+name: Evan Pete Walsh
 main_links:
   github: https://github.com/epwalsh
   linkedin: https://www.linkedin.com/in/epwalsh/
+  twitter: https://twitter.com/epwalsh10

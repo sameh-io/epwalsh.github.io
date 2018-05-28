@@ -14,6 +14,10 @@ description: Machine Learning Engineer
 
 > An AWS Lambda function that handles scaling of ECS clusters and services based on arbitrary metrics.
 
+**[aws-log-monitor](https://github.com/epwalsh/aws-log-monitor)**
+
+> An AWS Lambda function that monitors CloudWatch logs for keywords.
+
 ### Useful docker images
 
 **[docker-celery](https://github.com/epwalsh/docker-celery)**

@@ -141,7 +141,7 @@ x =
 ```
 
 This is pretty good, since the true minimum is `0 = f(420.9687, ..., 420.9687)`.
-Check out [example.cpp](https://github.com/epwalsh/CSA/blob/master/example.cpp)"
+Check out [example.cpp](https://github.com/epwalsh/CSA/blob/master/example.cpp)
 for the full source code to this example.
 
 ## Documentation

@@ -18,6 +18,10 @@ description: Machine Learning Engineer
 
 > An AWS Lambda function that monitors CloudWatch logs for keywords.
 
+**[pytorch-crf](https://github.com/epwalsh/pytorch-crf)**
+
+> Built on PyTorch, this is a framework that reproduces and expands on several state-of-the-art sequence labelling neural networks.
+
 ### Useful docker images
 
 **[docker-celery](https://github.com/epwalsh/docker-celery)**
@@ -37,3 +41,7 @@ description: Machine Learning Engineer
 **[BeautifulJekyll](https://github.com/daattali/beautiful-jekyll)**
 
 > An awesome Jekyll theme that I used to use.
+
+**[AllenNLP](https://github.com/allenai/allennlp)**
+
+> An open-source NLP research library, built on PyTorch.

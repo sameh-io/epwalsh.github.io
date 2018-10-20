@@ -5,6 +5,8 @@ main_links:
   github: https://github.com/epwalsh
   linkedin: https://www.linkedin.com/in/epwalsh/
   twitter: https://twitter.com/epwalsh10
+disqus:
+  shortname: epwalsh-github-io
 markdown: kramdown
 plugins:
   - jekyll-seo-tag

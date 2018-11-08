@@ -14,6 +14,12 @@ comments: true
 
 Set the environment variable `CUDA_LAUNCH_BLOCKING=1` before running your script. This will make PyTorch execute the CUDA code syncronously, which slows things down bit, but ensures any errors are reported exactly when they happen, so that you get a meaningful stack trace. Without this, you'll end up getting an error message at an essentially random line of code that is run sometime after the code that actually caused the error.
 
+### GPU vs CPU caveats
+
+There are edge cases to watch out for where the same tensor operation may have different results on GPU vs CPU. One example (that once caused me a headache for a few hours) is when `torch.topk` is called on a tensor that contains `nan` values. On CPU, `topk` ignore the `nan`'s and everything is fine (other than the fact that you have `nan`'s in the first place), but on GPU `topk` may return massive indices on the order of `9e+18`, which will be way out-of-bounds.
+
+> See [pytorch/pytorch#1810](https://github.com/pytorch/pytorch/issues/1810) for more information.
+
 ## Unit testing
 
 ### Utilizing numpy testing tools.

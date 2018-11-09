@@ -38,32 +38,35 @@ variables:
 
 before_script:
   # Print out some info for debugging.
-  - ls -a1
-  - pwd
-  - 'echo "Branch: ${CI_COMMIT_REF_NAME}"'
-  - 'echo "Commit: ${CI_COMMIT_SHA}"'
+  - |
+    pwd
+    ls -a1
+    echo "Branch: ${CI_COMMIT_REF_NAME}"
+    echo "Commit: ${CI_COMMIT_SHA}"
 
   # Clone the repository.
   # (Be sure to replace YOUR-SERVER and YOUR-REPO)
-  - 'git clone ssh://git@YOUR-SERVER/YOUR-REPO.git tmp-repo'
-  - 'cd tmp-repo'
-
-  # Checkout the commit that triggered this job.
-  - 'git checkout "${CI_COMMIT_SHA}" .'
+  - |
+    git clone ssh://git@YOUR-SERVER/YOUR-REPO.git tmp-repo
+    cd tmp-repo
+    git reset --hard "${CI_COMMIT_SHA}"
 
   # We'll want all of the files to be in the job
   # working directory, so we're just going to move
   # them up to the parent directory.
-  - 'find . -maxdepth 1 -exec mv {} .. \;'
-  - 'cd .. && rm -rf ./tmp-repo/'
+  - |
+    find . -maxdepth 1 -exec mv {} .. \;
+    cd .. && rm -rf ./tmp-repo/
 
   # All the files should be here now.
-  - 'ls -a1'
+  - |
+    ls -a1
 
 after_script:
   # Cleanup by deleting everything in the job
   # working directory.
-  - 'find -maxdepth 1 -exec rm -rf "{}" \;'
+  - |
+    find -maxdepth 1 -exec rm -rf "{}" \;
 
 stages:
   - test

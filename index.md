@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Evan "Pete" Walsh
+title: Evan Pete Walsh
 description: Machine Learning Engineer
 mathjax: true
 ---

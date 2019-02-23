@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Evan Pete Walsh
-description: Machine Learning Engineer
+description: Wandering around mountains and machine learning
 mathjax: true
 ---
 

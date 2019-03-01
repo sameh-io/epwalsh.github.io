@@ -3,7 +3,7 @@ layout: post
 title: PyTorch Tips and Tricks
 description: A collection of useful stuff I've learned when messing around with PyTorch
 mathjax: true
-comments: true
+comments: false
 ---
 
 *Last updated: 2018-11-08*

@@ -3,7 +3,7 @@ layout: post
 title: GitLab Runners
 description: How to clone via SSH with a GitLab runner
 mathjax: true
-comments: true
+comments: false
 ---
 
 [GitLab runners](https://docs.gitlab.com/runner/) can only clone your repository through HTTPS by default. This makes it tricky to get your CI pipeline working if your GitLab server only allows cloning over SSH. Unfortunately, there is no quick setting we can change in order to enable SSH cloning. Instead, we'll have to disable automatic cloning altogether and then manually clone via SSH.

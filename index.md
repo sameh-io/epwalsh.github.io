@@ -2,7 +2,7 @@
 layout: home
 title: Evan Pete Walsh
 description: Machine Learning Engineer
-mathjax: true
+mathjax: false
 ---
 
 Hi,

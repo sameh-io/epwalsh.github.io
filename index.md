@@ -9,7 +9,7 @@ Hi,
 
 I lead the machine learning team at [Structurely](www.structurely.com), a disruptive real estate tech start-up that built Aisa, the "AI inside sales agent".
 
-I have an undergraduate degree in mathematics that I received from St. Lawrence University in 2014, after which I began pursing a co-major PhD in math and statistics at Iowa State University. But as a PhD student I began to realize my academic passions lay at two different ends of the spectrum.
+I received a B.S. in mathematics from St. Lawrence University in 2014, after which I began pursing a co-major PhD in math and statistics at Iowa State University. But as a PhD student I began to realize my academic passions lay at two different ends of the spectrum.
 
 On one hand, I have always been enthralled with the underlying theory of probability down to every last gritty detail at the measure-theoretic level, which drove me to pick up the mathematics part of my co-major after my first year. On the other hand I was also captivated by the predictive power of statistics.
 

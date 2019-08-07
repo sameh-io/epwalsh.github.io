@@ -24,3 +24,15 @@
   font-weight: normal;
   color: #3b4274;
 }
+
+.instagram-feed {
+  overflow: hidden;
+}
+
+#instagram-feed1 > .instagram_gallery > a > img {
+  padding-right: 2px;
+}
+
+// #instagram-feed1 > .instagram_profile > .instagram_username {
+//   display: none,
+// }

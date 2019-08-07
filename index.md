@@ -3,6 +3,7 @@ layout: home
 title: Evan Pete Walsh
 description: Machine Learning Engineer
 mathjax: false
+jquery: true
 ---
 
 Hi,
@@ -19,14 +20,41 @@ Then in 2016 I started working for Structurely on the side which continued to fu
 
 Since leaving grad school I've also rediscovered my love for climbing. My girlfriend and I now live in Seattle where we regularly rock climb and go hiking with [our dogs](https://www.instagram.com/tailsofkinnickandlua/). Our current goal is to climb all of the major [Cascade Valcanoes](https://en.wikipedia.org/wiki/Cascade_Volcanoes). I frequently post about our climbing shenanigans on [my Instagram](https://www.instagram.com/evanpetewalsh/) 🤘
 
+---
+
+<div id="instagram-feed1" class="instagram-feed"></div>
+
+---
+
 I'm also beginning to write more about machine learning since I always seem to come away with a new perspective on a concept after trying to explain it. You can see some of my recent posts below 👇
 
-## Recent posts
+---
 
 <!-- https://medium-widget.pixelpoint.io/ -->
 <div id="medium-widget"></div>
 <script src="https://medium-widget.pixelpoint.io/widget.js"></script>
 <script>MediumWidget.Init({renderTo: '#medium-widget', params: {"resource":"https://medium.com/@epwalsh10","postsPerLine":2,"limit":4,"picture":"big","fields":["description","claps","publishAt"],"ratio":"landscape"}})</script>
+
+<script src="assets/js/instagramFeed.min.js"></script>
+<script>
+  (function($){
+    $(window).on('load', function(){
+      $.instagramFeed({
+        'username': 'evanpetewalsh',
+        'container': "#instagram-feed1",
+        'display_profile': false,
+        'display_biography': false,
+        'display_gallery': true,
+        'callback': null,
+        'styling': true,
+        'items': 3,
+        'items_per_row': 3,
+        'margin': 0.0,
+        'image_size': 320
+      });
+    });
+  })(jQuery);
+</script>
 
 <!-- ## Other posts -->
 

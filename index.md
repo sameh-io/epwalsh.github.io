@@ -18,7 +18,7 @@ I took my first machine learning course during my second semester at Iowa State 
 
 Then in 2016 I started working for Structurely on the side which continued to fuel my interest in machine learning and software development. As our company grew my workload forced me to take time off from graduate school, but also gave me some perspective. I realized I was having too much fun building machine learning software and decided I'd rather commit to that journey than finish my PhD.
 
-Since leaving grad school I've also rediscovered my love for climbing. My girlfriend and I now live in Seattle where we regularly rock climb and go hiking with [our dogs](https://www.instagram.com/tailsofkinnickandlua/). Our current goal is to climb all of the major [Cascade Valcanoes](https://en.wikipedia.org/wiki/Cascade_Volcanoes). I frequently post about our climbing shenanigans on [my Instagram](https://www.instagram.com/evanpetewalsh/) 🤘
+Since leaving grad school and the flat lands of Iowa, I've also rediscovered my love for the mountains. My girlfriend and I now live in Seattle where we regularly go rock climbing, mountaineering, and hiking with [our dogs](https://www.instagram.com/tailsofkinnickandlua/). We're currently working our way through the classic peaks of Washington while honing our  glacier travel and alpine climbing skills. I frequently post about our high elevation shenanigans on [my Instagram](https://www.instagram.com/evanpetewalsh/) 🤘
 
 ---
 

@@ -33,6 +33,21 @@
   padding-right: 2px;
 }
 
+.dot {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.python-dot {
+  background-color: #3572A5;
+}
+
+.rust-dot {
+  background-color: #DEA584;
+}
+
 // #instagram-feed1 > .instagram_profile > .instagram_username {
 //   display: none,
 // }

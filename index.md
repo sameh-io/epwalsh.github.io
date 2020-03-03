@@ -5,7 +5,7 @@ mathjax: false
 jquery: true
 ---
 
-## About me
+## About me 👋
 
 I lead the machine learning team at [Structurely](https://structurely.com), a start-up building conversational AI.
 
@@ -18,6 +18,25 @@ Then in 2016 I started working for Structurely on the side which continued to fu
 Since leaving grad school and the flat lands of Iowa, I've also rediscovered my love for the mountains. My girlfriend and I now live in Seattle where we regularly go rock climbing, mountaineering, and hiking with [our dogs](https://www.instagram.com/tailsofkinnickandlua/). We're currently working our way through the classic peaks of Washington while honing our  glacier travel and alpine climbing skills. I frequently post about our high elevation shenanigans on [my Instagram](https://www.instagram.com/evanpetewalsh/) 🤘
 
 <div id="instagram-feed1" class="instagram-feed"></div>
+
+## Software
+
+I am passionate about building quality open source software, especially software that makes machine learning more accessible and machine learning research more reproducible. These are some projects that I frequently contribute to.
+
+### [**AllenNLP**](https://github.com/allenai/allennlp)
+<div><span class="dot python-dot"></span> An open-source NLP research library, built on PyTorch.</div>
+<a class="github-button" href="https://github.com/allenai/allennlp" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star allenai/allennlp on GitHub">Star</a>
+<a class="github-button" href="https://github.com/allenai/allennlp/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork allenai/allennlp on GitHub">Fork</a>
+
+### [**Tokenizers**](https://github.com/huggingface/tokenizers)
+<div><span class="dot rust-dot"></span> 💥Fast State-of-the-Art Tokenizers optimized for Research and Production.</div>
+<a class="github-button" href="https://github.com/huggingface/tokenizers" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star huggingface/tokenizers on GitHub">Star</a>
+<a class="github-button" href="https://github.com/huggingface/tokenizers/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork huggingface/tokenizers on GitHub">Fork</a>
+
+### [**Rusty Celery**](https://github.com/rusty-celery/rusty-celery)
+<div><span class="dot rust-dot"></span> Rust implementation of Celery for producing and consuming background tasks.</div>
+<a class="github-button" href="https://github.com/rusty-celery/rusty-celery" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star rusty-celery/rusty-celery on GitHub">Star</a>
+<a class="github-button" href="https://github.com/rusty-celery/rusty-celery/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork rusty-celery/rusty-celery on GitHub">Fork</a>
 
 ## Recent posts 👇
 

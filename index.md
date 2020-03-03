@@ -11,7 +11,7 @@ I lead the machine learning team at [Structurely](https://structurely.com), a st
 
 I received a B.S. in mathematics from St. Lawrence University in 2014, after which I began pursing a co-major PhD in math and statistics at Iowa State University.
 
-There I took my first machine learning course and was so fascinated by what you could accomplish with a few lines of code that I binge-read the entire course textbook within a week. Soon I joined the data mining team that had recently been established in the Stats department and helped build a successful track record, including two second place finishes at [prudsys Data Mining Cup](https://www.data-mining-cup.com/), an international competition for universities.
+There I took my first machine learning course and was so fascinated by what you could accomplish with a few lines of code that I binge-read the entire course textbook within a week. Soon I joined the data mining team that had recently been established in the Stats department and helped build a successful track record, including two second place finishes at an international competition for universities.
 
 Then in 2016 I started working for Structurely on the side which continued to fuel my interest in machine learning and software development. As our company grew my workload forced me to take time off from graduate school, but also gave me some perspective. I realized I was having too much fun building machine learning software and decided I'd rather commit to that journey than finish my PhD.
 

@@ -7,13 +7,13 @@ jquery: true
 
 ## About me 👋
 
-I lead the machine learning team at [Structurely](https://structurely.com), a start-up building conversational AI.
+I'm a Senior Research Engineer at [AllenAI](https://allenai.org) working on NLP software, research, and applications. I also work part-time for [Structurely](https://structurely.com), a start-up building conversational AI, and maintain several [open source Rust projects](#software).
 
 I received a B.S. in mathematics from St. Lawrence University in 2014, after which I began pursing a co-major PhD in math and statistics at Iowa State University.
 
 There I took my first machine learning course and was so fascinated by what you could accomplish with a few lines of code that I binge-read the entire course textbook within a week. Soon I joined the data mining team that had recently been established in the Statistics Department and helped build a successful track record, including two second place finishes at an international competition for universities.
 
-Then in 2016 I started working for Structurely on the side which continued to fuel my interest in machine learning and software development. As our company grew my workload forced me to take time off from graduate school, but also gave me some perspective. I realized I was having too much fun building machine learning software and decided I'd rather commit to that journey than finish my PhD.
+Then in 2016 I started working for Structurely on the side which continued to fuel my interest in machine learning and software development. As the company grew my workload forced me to take time off from graduate school, but also gave me some perspective. I realized I was having too much fun building machine learning software and decided I'd rather commit to that journey than finish my PhD.
 
 Since leaving grad school and the flat lands of Iowa, I've also rediscovered my love for the mountains. My girlfriend and I now live in Seattle where we regularly go rock climbing, mountaineering, and hiking with [our dogs](https://www.instagram.com/tailsofkinnickandlua/). We're currently working our way through the classic peaks of Washington while honing our  glacier travel and alpine climbing skills. I frequently post about our high elevation shenanigans on [my Instagram](https://www.instagram.com/evanpetewalsh/) 🤘
 
@@ -21,7 +21,7 @@ Since leaving grad school and the flat lands of Iowa, I've also rediscovered my 
 
 ## Software
 
-I am passionate about building quality open source software, especially software that makes machine learning more accessible and machine learning research more reproducible. These are some projects that I frequently contribute to.
+I am passionate about building quality open source software, especially software that makes machine learning more accessible and research more reproducible. These are some projects that I frequently contribute to and/or maintain.
 
 ### [**AllenNLP**](https://github.com/allenai/allennlp)
 <div><span class="dot python-dot"></span> An open-source NLP research library, built on PyTorch.</div>

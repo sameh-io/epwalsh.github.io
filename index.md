@@ -21,7 +21,7 @@ Since leaving grad school and the flat lands of Iowa, I've also rediscovered my 
 
 ## Software
 
-I am passionate about building quality open source software, especially software that makes machine learning more accessible and research more reproducible. These are some projects that I frequently contribute to and/or maintain.
+I am passionate about building quality open source software, especially software that makes machine learning more accessible and research more reproducible. These are some of the more popular projects that I maintain or frequently contribute to.
 
 ### [**AllenNLP**](https://github.com/allenai/allennlp)
 <div><span class="dot python-dot"></span> An open-source NLP research library, built on PyTorch.</div>
@@ -37,6 +37,25 @@ I am passionate about building quality open source software, especially software
 <div><span class="dot rust-dot"></span> Rust implementation of Celery for producing and consuming background tasks.</div>
 <a class="github-button" href="https://github.com/rusty-celery/rusty-celery" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star rusty-celery/rusty-celery on GitHub">Star</a>
 <a class="github-button" href="https://github.com/rusty-celery/rusty-celery/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork rusty-celery/rusty-celery on GitHub">Fork</a>
+
+<br>
+
+I also have a handful of smaller Rust projects that I'm moderately proud of.
+
+### [**rust-dl-webserver**](https://github.com/epwalsh/rust-dl-webserver)
+<div><span class="dot rust-dot"></span> Example of serving deep learning models in Rust with batched prediction.</div>
+<a class="github-button" href="https://github.com/epwalsh/rust-dl-webserver" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star epwalsh/rust-dl-webserver on GitHub">Star</a>
+<a class="github-button" href="https://github.com/epwalsh/rust-dl-webserver/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork epwalsh/rust-dl-webserver on GitHub">Fork</a>
+
+### [**rust-cached-path**](https://github.com/epwalsh/rust-cached-path)
+<div><span class="dot rust-dot"></span> Rust utility for accessing both local and remote files through a unified interface.</div>
+<a class="github-button" href="https://github.com/epwalsh/rust-cached-path" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star epwalsh/rust-cached-path on GitHub">Star</a>
+<a class="github-button" href="https://github.com/epwalsh/rust-cached-path/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork epwalsh/rust-cached-path on GitHub">Fork</a>
+
+### [**batched-fn**](https://github.com/epwalsh/batched-fn)
+<div><span class="dot rust-dot"></span> Rust middleware for serving deep learning models with batched prediction.</div>
+<a class="github-button" href="https://github.com/epwalsh/batched-fn" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star epwalsh/batched-fn on GitHub">Star</a>
+<a class="github-button" href="https://github.com/epwalsh/batched-fn/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork epwalsh/batched-fn on GitHub">Fork</a>
 
 ## Recent posts 👇
 
